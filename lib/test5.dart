@@ -1,18 +1,7 @@
 //groupBy
-//transform
-//maps
-//withLastestFrom
-//takeWhile
-//skipWhile
-//forkJoin
-//range
 //sequenceEqual
-//timestamp()
-//throttle
 //share && publish
 //reduce
-//sample
-//do
 
 import 'dart:async';
 

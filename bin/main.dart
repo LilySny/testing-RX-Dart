@@ -4,6 +4,7 @@ import 'package:testing_rx_dart/test3.dart' as test3;
 import 'package:testing_rx_dart/test4.dart' as test4;
 import 'package:testing_rx_dart/test5.dart' as test5;
 import 'package:testing_rx_dart/test6.dart' as test6;
+import 'package:testing_rx_dart/test7.dart' as test7;
 
 main(List<String> arguments) {
 // test1.main(); //just testing random operators
@@ -11,7 +12,6 @@ main(List<String> arguments) {
 // test3.main(); // combine operators
 //test4.main(); //distinc operator
 //test5.main(); //testing maps
-test6.main(); //testing time operators(timer, debounce, buffer, etc);
-
-  
+// test6.main(); //testing time operators(timer, debounce, buffer, etc);
+// test7.main();
 }
